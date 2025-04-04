@@ -1,3 +1,3 @@
 # Tutorial for Data Science for Conservation Biology Course (`bio108tutorial`)
 
-This repository contains a Jupyter Notebook, which can also be opened and followed along in Google Colab. The tutorial in said notebook analyzes how deforestation amplifies or affects the species richness of threatened bird species.
+This repository contains a Jupyter Notebook, which can also be opened and followed along in Google Colab. The tutorial in the said notebook analyzes how deforestation amplifies or affects the species richness of threatened bird species. For week 10, this notebook further explores and theorizes how deforestation may impact where threatened bird species are forced to reside and at what density. Additionally, begins attempting to explore how projected bioclimatic variables will affect dense populations of threatened bird species
